@@ -1,0 +1,38 @@
+[  320316ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  320666ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  321195ms] [ERROR] Failed to load app: SyntaxError: The requested module 'lucide-react' does not provide an export named 'Github' @ about:srcdoc:144
+[  321196ms] [ERROR] Import map: {
+  "imports": {
+    "react": "https://esm.sh/react",
+    "react-dom": "https://esm.sh/react-dom@19",
+    "react-dom/client": "https://esm.sh/react-dom@19/client",
+    "react/jsx-runtime": "https://esm.sh/react@19/jsx-runtime",
+    "react/jsx-dev-runtime": "https://esm.sh/react@19/jsx-dev-runtime",
+    "lucide-react": "https://esm.sh/lucide-react",
+    "/App.jsx": "blob:http://localhost:3000/c81ebcbe-c5a1-4d7e-b2f7-d66689ba982b",
+    "App.jsx": "blob:http://localhost:3000/c81ebcbe-c5a1-4d7e-b2f7-d66689ba982b",
+    "@/App.jsx": "blob:http://localhost:3000/c81ebcbe-c5a1-4d7e-b2f7-d66689ba982b",
+    "/App": "blob:http://localhost:3000/c81ebcbe-c5a1-4d7e-b2f7-d66689ba982b",
+    "App": "blob:http://localhost:3000/c81ebcbe-c5a1-4d7e-b2f7-d66689ba982b",
+    "@/App": "blob:http://localhost:3000/c81ebcbe-c5a1-4d7e-b2f7-d66689ba982b"
+  }
+} @ about:srcdoc:145
+[  435302ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  435334ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  435409ms] [ERROR] Failed to load app: SyntaxError: The requested module 'lucide-react' does not provide an export named 'Github' @ about:srcdoc:144
+[  435409ms] [ERROR] Import map: {
+  "imports": {
+    "react": "https://esm.sh/react",
+    "react-dom": "https://esm.sh/react-dom@19",
+    "react-dom/client": "https://esm.sh/react-dom@19/client",
+    "react/jsx-runtime": "https://esm.sh/react@19/jsx-runtime",
+    "react/jsx-dev-runtime": "https://esm.sh/react@19/jsx-dev-runtime",
+    "lucide-react": "https://esm.sh/lucide-react",
+    "/App.jsx": "blob:http://localhost:3000/0ce4e63b-e830-4348-a843-7fd6e9e79213",
+    "App.jsx": "blob:http://localhost:3000/0ce4e63b-e830-4348-a843-7fd6e9e79213",
+    "@/App.jsx": "blob:http://localhost:3000/0ce4e63b-e830-4348-a843-7fd6e9e79213",
+    "/App": "blob:http://localhost:3000/0ce4e63b-e830-4348-a843-7fd6e9e79213",
+    "App": "blob:http://localhost:3000/0ce4e63b-e830-4348-a843-7fd6e9e79213",
+    "@/App": "blob:http://localhost:3000/0ce4e63b-e830-4348-a843-7fd6e9e79213"
+  }
+} @ about:srcdoc:145

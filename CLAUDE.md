@@ -69,3 +69,11 @@ Two primary React contexts:
 ### UI Layout
 
 `src/app/main-content.tsx` — root layout with `react-resizable-panels`: left panel is chat, right panel toggles between live preview and Monaco code editor. File tree sits above the editor.
+
+## Database
+
+The database schema is defined in `prisma/schema.prisma`. Reference it anytime you need to understand the structure of data stored in the database.
+
+## Code Style
+
+Use comments sparingly. Only comment complex code.

@@ -49,3 +49,6 @@ next-env.d.ts
 # database
 /prisma/dev.db
 /prisma/dev.db-journal
+
+# local python deps for one-off scripts (e.g. docx builder)
+.docx-deps/
